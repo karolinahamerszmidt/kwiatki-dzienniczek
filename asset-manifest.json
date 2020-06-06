@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kwiatki-dzienniczek/static/css/main.28091250.chunk.css",
+    "main.js": "/kwiatki-dzienniczek/static/js/main.d99191e6.chunk.js",
+    "main.js.map": "/kwiatki-dzienniczek/static/js/main.d99191e6.chunk.js.map",
+    "runtime-main.js": "/kwiatki-dzienniczek/static/js/runtime-main.dfaf6ec2.js",
+    "runtime-main.js.map": "/kwiatki-dzienniczek/static/js/runtime-main.dfaf6ec2.js.map",
+    "static/js/2.3fbd21c4.chunk.js": "/kwiatki-dzienniczek/static/js/2.3fbd21c4.chunk.js",
+    "static/js/2.3fbd21c4.chunk.js.map": "/kwiatki-dzienniczek/static/js/2.3fbd21c4.chunk.js.map",
+    "index.html": "/kwiatki-dzienniczek/index.html",
+    "precache-manifest.211c52ab5066affe87c63b56c58ad91d.js": "/kwiatki-dzienniczek/precache-manifest.211c52ab5066affe87c63b56c58ad91d.js",
+    "service-worker.js": "/kwiatki-dzienniczek/service-worker.js",
+    "static/css/main.28091250.chunk.css.map": "/kwiatki-dzienniczek/static/css/main.28091250.chunk.css.map",
+    "static/js/2.3fbd21c4.chunk.js.LICENSE.txt": "/kwiatki-dzienniczek/static/js/2.3fbd21c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfaf6ec2.js",
+    "static/js/2.3fbd21c4.chunk.js",
+    "static/css/main.28091250.chunk.css",
+    "static/js/main.d99191e6.chunk.js"
+  ]
+}
