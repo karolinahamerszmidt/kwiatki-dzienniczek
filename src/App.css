@@ -28,8 +28,19 @@
   border-bottom: 1px solid rgb(16, 71, 107);
   margin:10px 0;
 }
-
-
+.nawigacja{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.nawigacja > a {
+  display: block;
+  border: 1px solid  rgb(16, 71, 107);
+  text-decoration: none; 
+  color: rgb(16, 71, 107);
+  margin: 0 10px;
+  padding: 10px;
+}
 
 
 
@@ -40,6 +51,8 @@
 .App-logo {
   height: 20vmin;
   pointer-events: none;
+  object-fit: contain;
+  
 }
 
 @media (prefers-reduced-motion: no-preference) {
