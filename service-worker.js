@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kwiatki-dzienniczek/precache-manifest.fe6050917dc442ce8aa443eeb58d0e4e.js"
+  "/kwiatki-dzienniczek/precache-manifest.b13a5a8db6c09fd4db3f3ad54658c4ae.js"
 );
 
 self.addEventListener('message', (event) => {
